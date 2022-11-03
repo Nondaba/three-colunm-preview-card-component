@@ -28,6 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
+![](<./images/Screenshot%20(17).png>)
+
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/flexbox-Ugy7oCZpUH
